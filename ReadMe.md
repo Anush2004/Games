@@ -1,4 +1,4 @@
-This repository contains to 2 games one made using turtle module and other using Pygame module. The games are a bit shabby and the only reason to making them was learn how to use these modules.
+This repository contains to 2 games one made using turtle module and other using Pygame module. The games are a bit shabby and the only reason to making them was to learn how to use these modules.
 
 # **2 Player Ping-Pong Game**
 
